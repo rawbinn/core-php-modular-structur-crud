@@ -13,11 +13,12 @@ Perfect for students learning PHP, SQL, and secure programming practices using *
 - Basic authentication: login, register, logout
 - Course & User CRUD (Create, Read, Update, Delete)
 - Simple configuration management (`config/` folder)
-- No frameworks or OOP — purely procedural PHP for learning
+- No frameworks or OOP — purely procedural PHP for learningå
 
 ---
 
 ## Folder Structure
+```
 project/
 ├── config/ # Configuration files (e.g., database settings)
 │ └── database.php
@@ -51,6 +52,7 @@ project/
 │ ├── create_users_table.sql
 │ └── create_courses_table.sql
 └── index.php # Dashboard or home page
+```
 
 ## Setup Instructions
 
